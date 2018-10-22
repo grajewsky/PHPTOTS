@@ -1,0 +1,12 @@
+{
+    "name": "PHPToTypescript",
+    "description": "PHP class converter do TypeScript interfaces",
+    "autoload": {
+        "psr-4": {
+            "PTT\\": "src/"
+        }
+    },
+    "require": {
+        "zeptech/annotations": "1.1.0"
+    }
+}
