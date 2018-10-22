@@ -1,5 +1,5 @@
 {
-    "name": "PHPToTypescript",
+    "name": "grajewsky/PHPTOTS",
     "description": "PHP class converter do TypeScript interfaces",
     "autoload": {
         "psr-4": {
